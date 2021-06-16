@@ -1,2 +1,3 @@
 # git_basics
-Learn GIT, it's fun!
+Привет всем, кто читает!
+
